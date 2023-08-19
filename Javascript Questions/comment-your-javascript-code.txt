@@ -1,0 +1,5 @@
+// var firstNum = 2;
+// var secondNum = 5;//
+
+/* var popularNumber = firstNum + secondNum;
+alert(popularNumber)*/
